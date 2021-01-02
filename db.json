@@ -1,0 +1,29 @@
+{
+	"pizzas": [
+		{
+			"id": 1,
+			"name": "Calabresa",
+			"price": 21.90,
+			"ingredients": "Calabresa, Cebola e Mussarela",
+			"img": "https://lh3.googleusercontent.com/pw/ACtC-3c6EpVznZvsk2TAOfuDs7i7U3CU862UoKaoO0NmKtZRZGEX5nrfDDnnuXU3BG3yV87moEvu8j4yrz9E8jTfMbRqydGT_q-8our6dKpheVCJNxpSsQuv8O7mhogHyQ8fmE7yHLWHbLkYNEeuw9Ih2LLR=w790-h552-no?authuser=0"
+		},
+		{
+			"id": 2,
+			"name": "Portuguesa",
+			"price": 24.90,
+			"ingredients": "Ovos, Cebola e Mussarela",
+			"img": "https://lh3.googleusercontent.com/pw/ACtC-3ek3_K73aOwXX8c2xHKvwIldGob4plKM2Zqrb75sbLQ9Apzj-5ppm4H2U0YlVjGw6qBKSR4Tyb8jeLLi-T8qbNSjkwG3vKF9BQD2jSNIytlo_UKu3h7GmuzrryADfohYrthM7SoW8dqqKJTTIvT295D=w1258-h943-no?authuser=0"
+		}
+	],
+	"bebidas": [
+		{
+			"id": 1,
+			"name": "Coca-Cola",
+			"price": 6.90,
+			"volume": "2 Litros",
+			"img": "https://lh3.googleusercontent.com/pw/ACtC-3eLQv8QVPt-SaiT2T4a_vogOcBG1LGfI22-_mjgJymNoOmyeWg4NRTfdMGw3E1lLIWEvZACKC3-IyiLI9TOF09O_sYVpf-JsQV4DrjfAUx5LYuOKcuB-d6Ebw9l239TMU1QHt1VWCRML0r1r3Ky705l=w486-h648-no?authuser=0"
+		}
+	]
+}
+
+
